@@ -14,8 +14,8 @@ This project aims to predict customer churn using machine learning models. The d
 ## Steps to Run the Project(From Github)
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/BansalSwayam/Churn-Prediction-RF-.git
+cd Churn-Prediction-RF-
 
 
 ### 2. Set Up the Environment
